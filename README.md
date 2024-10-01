@@ -25,5 +25,6 @@ pip install selenium
 ```
 ## 4. Запуск
 ```
+cd E2E_Test-SauceDemo
 python script.py
 ```
